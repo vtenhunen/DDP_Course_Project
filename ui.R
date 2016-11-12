@@ -40,7 +40,7 @@ shinyUI(fluidPage(
                                           tags$br(),
                                           tags$a(href="https://creativecommons.org/licenses/by/4.0/", "Licence of the Data: CC 4.0 BY"),
                                           tags$br(),
-                                          tags$a(href="http://github.com", "Source code of this app")
+                                          tags$a(href="https://github.com/vtenhunen/DDP_Course_Project", "Source code of this app")
                                           )
                                     )
                               )
